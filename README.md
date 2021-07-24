@@ -1,1 +1,1 @@
-![Alt Text](demo.gif)
+![Alt Text](book.gif)
